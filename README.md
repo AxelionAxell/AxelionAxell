@@ -11,7 +11,7 @@
 <br/>
 
 # ⭐ About Me:
-<picture> <img align="right" src="https://cutecafe.art/wp-content/uploads/2023/07/71070866d7.gif" width = 250px></picture>
+<picture> <img align="right" src="https://cutecafe.art/wp-content/uploads/2024/08/0-A-chan.gif" width = 300px></picture>
 <br><br>
 Hi, I'm Axelion Axell a kids who like tech enthusiast wired to stay one step ahead of the next big thing.
 By day I'm reading code and tracking where AI is headed; by night I'm elbow-deep in a PC that
@@ -25,18 +25,57 @@ to see how they actually work.
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=qlljkhwndtogp4tz3lgvrzvr9&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=qlljkhwndtogp4tz3lgvrzvr9&redirect=true)
 
 #  Projects
-- <b>I don't even know what kind of project to build
----
+- I don't even know what kind of project to build
+<br><br>
+
+<div style="clear: both;"></div>
 
 <h1 align="center">GitHub's Stats</h1>
 
-| <a href="#"><img align="center" src="https://gh-rs.vercel.app/api?username=AxelionAxell&layout=compact&langs_count=8&card_width=320&theme=gruvbox" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://gh-rs.vercel.app/api/top-langs?username=AxelionAxell&theme=gruvbox" /></a> |
-| ------------- | -------------- |
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Axelionaxell&theme=blueberry-duo">
+  </a>
+</p>
 
-| <a href="#"><img align="center" src="https://grss.vercel.app/?user=AxelionAxell&theme=gruvbox" alt="harys722" /></a> |
-| -------------- |
+<h1 align="center">Languages & Tools</h1>
 
----
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br>
+      <b>Java</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br>
+      <b>Python</b>
+    </td>
+    <td align="center">
+      <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40"/><br>
+      <b>VS Code</b>
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/><br>
+      <b>SQLite</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><br>
+      <b>Linux</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br>
+      <b>JavaScript</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/><br>
+      <b>Kotlin</b>
+    </td>
+    <td align="center">
+      <img src="https://git-scm.com/images/logo@2x.png" width="60" height="30"/><br>
+      <b>Git</b>
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">Extras</h1>
 <table border="2px"; align=center>
