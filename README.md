@@ -33,7 +33,7 @@ to see how they actually work.
 <h1 align="center">GitHub's Stats</h1>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="[![GitHub Streak](https://github-readme-streak-stats-zeta-ashy.vercel.app?user=AxelionAxell&theme=kanagawa-paper&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)">
     <img src="https://streak-stats.demolab.com/?user=Axelionaxell&theme=blueberry-duo">
   </a>
 </p>
